@@ -11,3 +11,8 @@ Estado: Corresponde a los datos o condiciones específicas de un vehículo en un
 
 Comportamiento: Representa las acciones que el objeto puede ejecutar o recibir para alterar su estado, como acelerar, frenar o girar la llave en el encendido.
 
+
+
+## Cómo ejecutar este proyecto
+
+ Asegúrate de tener instalado el SDK de .NET.
